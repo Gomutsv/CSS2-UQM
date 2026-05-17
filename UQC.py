@@ -15,6 +15,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+# CSS2 UQM Research Project
+
 API_KEY = os.getenv("NVIDIA_API_KEY") or "GET NAVIDIA API KEY TO USE THIS CODE :D"
 BASE_URL = "https://integrate.api.nvidia.com/v1"
 MODEL = "openai/gpt-oss-120b"
