@@ -1,4 +1,15 @@
+## Project Title
+
+Analysing Uncertainty Quantification Methods in a Large Language Model’s Responses
+
 ## Contributors to this project
+
+- Hein Htet Aung - 25026511
+- Jia Yang Wong - 25572239
+- Yew Sheng Michael - Chieng 25573926
+- Noah Kearns - 25270772
+- Timothy Martin - 25370444
+- Ashmit Raina - 25138088
 
 
 ## Structure Definition
