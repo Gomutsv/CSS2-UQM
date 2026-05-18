@@ -2,6 +2,10 @@
 
 Analysing Uncertainty Quantification Methods in a Large Language Model’s Responses
 
+## Link to this repository
+
+https://github.com/Gomutsv/CSS2-UQM
+
 ## Contributors to this project
 
 - Hein Htet Aung - 25026511
