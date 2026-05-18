@@ -16,7 +16,7 @@ https://github.com/Gomutsv/CSS2-UQM
 - Ashmit Raina - 25138088
 
 
-## Structure Definition
+## Folder Structure Definition
 
 In this repository, there are two different folders.
 
